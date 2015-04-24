@@ -1,4 +1,4 @@
- # Test-the-Rest - One of Blogfoster’s Coding Tests
+# Test-the-Rest - One of Blogfoster’s Coding Tests
 This coding test is all about REST APIs and contains two fundamental tasks:
 
 1. Design a REST API interface which follows best practices and
