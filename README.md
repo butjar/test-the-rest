@@ -6,7 +6,7 @@ This coding test is all about REST APIs and contains two fundamental tasks:
 
 The test itself is not related to any particular technology which means you can implement the REST API in any language you want. 
 
-A SQL schema definition serves as underlaying data model. You will find the schema definition in the `data` folder.
+A SQL schema definition serves as an underlaying data model. You will find the schema definition in the `data` folder.
 
 ## How To Do The Test
 Please fork the project on Github. As soon as you have finished your implementation create an pull request against the original project and send us a message.
@@ -40,5 +40,5 @@ If you need other dependencies (e.g. Nginx or Apache) as well you need to instal
 ## Expectations
 1. You need to implement at least one resource route (e.g. campaign) completely including all CRUD operations. 
 2. It is fine if you don’t implement all routes as long as you return some dummy data on all routes (only GET responses).
-3. Your code should be *production ready*. This means the code is the best you can deliver currently.
+3. Your code should be **production ready**. This means the code is the best you can deliver currently.
 
