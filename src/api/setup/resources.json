@@ -1,0 +1,23 @@
+[
+  {
+    "name": "campaign",
+    "route": "/campaign",
+    "model": "campaign",
+    "controller": "campaign",
+    "tableName": "campaigns"
+  },
+  {
+    "name": "category",
+    "route": "/category",
+    "model": "category",
+    "controller": "category",
+    "tableName": "categories"
+  },
+  {
+    "name": "creative",
+    "route": "/creative",
+    "model": "creative",
+    "controller": "creative",
+    "tableName": "creatives"
+  }
+]
